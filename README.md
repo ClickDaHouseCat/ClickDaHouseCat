@@ -1,13 +1,21 @@
-<h1>Good afternoon👋. <br><br>
+<h3>Good afternoon👋. <br><br>
 :man_technologist: About Me: <br> 
 - My name is Eugene. <br>
 - I want to find a job as a programmer. I think it's very exciting. <br>
-- At the moment I am engaged in self-study at RSSchool, as well as third-party resources</h1>
+- At the moment I am engaged in self-study at RSSchool, as well as third-party resources</h3>
 <hr>
 <div style="display:flex">Technologies: <br><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"  width="50" haight="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  width="50" haight="50">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" haight="50"> 
+  <!-- HTML -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="50"/> </a>
+  <!-- CSS -->
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="50"/> </a>
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/> </a>
+  <!-- Photoshop -->
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" height="40"/> </a>
+</p>
 </div> 
 <hr>
 :fire: My Stats : <br><br>
@@ -16,13 +24,11 @@
 <br>
 <hr>
 <h2>Projects:</h2>
-<div style="display:flex">
-  <a style="display:flex" href="https://clickdahousecat.github.io/Plants/"><img src="![image](https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/6f9d7278-3171-454e-9f12-bf4a27014573)" width="200" height="100"><br>Plants</a><br>
-  <a href="https://clickdahousecat.github.io/cssMemeSlider/CSSMemeSilder/"><img src="![image](https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/5866ed06-d21b-4a79-b612-581769f4b2eb)" width="200" height="100"><br>Pure CssMemeSlider</a><br>
-  <a href="https://clickdahousecat.github.io/audioPlayer/audioPlayer/"><img src="![image](https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/3c202b54-cce5-48bc-96f3-d88364626185)" width="200" height="100"><br>audioPlayer</a><br>
-  <a href="https://clickdahousecat.github.io/unsplashGallery/APIGallery/"><img src="![image](https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/658ca93e-0bf6-4573-ba2b-797c1eb16926)" width="200" height="100"><br>unsplashGallery</a><br>
-  <a href="https://clickdahousecat.github.io/CrazyRacers/"><img src="![image](https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/56644e7b-9f25-45bb-a422-f62647528c2a)" width="200" height="100"><br>CrazyRacers</a>
-</div>
+<a href="https://clickdahousecat.github.io/Plants/"><img src="https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/40afc0f1-4b31-4ec6-a21c-b947d3dc1fe7" width=200px></a>
+<a href="https://clickdahousecat.github.io/audioPlayer/audioPlayer/"><img src="https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/4ec513d2-eac4-46be-bddd-d03914e9fa69" width=200px></a>
+<a href="https://clickdahousecat.github.io/unsplashGallery/APIGallery/"><img src="https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/c0552c21-c496-4b21-8bec-23768ac105cf" width=200px></a>
+<a href="https://clickdahousecat.github.io/CrazyRacers/"><img src="https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/fd56020a-c2c3-4e9d-b97e-b8ea8320684e" width=200px></a>
+
 <a href="https://www.linkedin.com/in/evgenii-dementev-a616b578/"><img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" width="50" haight="50"></a>
 <img src="https://komarev.com/ghpvc/?username=clickdahousecat&style=flat-square&color=blue" alt="count vievers"/>
 <!--
