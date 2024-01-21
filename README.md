@@ -29,7 +29,7 @@
 <a href="https://clickdahousecat.github.io/unsplashGallery/APIGallery/"><img src="https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/c0552c21-c496-4b21-8bec-23768ac105cf" width=200px></a>
 <a href="https://clickdahousecat.github.io/CrazyRacers/"><img src="https://github.com/ClickDaHouseCat/ClickDaHouseCat/assets/63846200/fd56020a-c2c3-4e9d-b97e-b8ea8320684e" width=200px></a>
 
-<a href="https://www.linkedin.com/in/evgenii-dementev-a616b578/"><img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" width="50" haight="50"></a>
+<a href="https://www.linkedin.com/in/evgenii-dementev-a616b578/"><img src="https://static.vecteezy.com/system/resources/previews/016/716/470/non_2x/linkedin-icon-free-png.png" width="20" haight="20"></a>
 <img src="https://komarev.com/ghpvc/?username=clickdahousecat&style=flat-square&color=blue" alt="count vievers"/>
 <!--
 **ClickDaHouseCat/ClickDaHouseCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
